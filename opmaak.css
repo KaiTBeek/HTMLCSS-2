@@ -1,14 +1,38 @@
 body {
     background-color: lightblue;
   }    
-h1{
-    color: yellow;
+h2{
+    color: black;
+    background-color: white;
 } 
 * {
   margin: 0px;
   padding: 0px;
 }
 body {
-  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background-image: url("https://wallpapercave.com/wp/wp4778521.jpg") repeat;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, Helvetica, sans-serif;
+  background-image: url('https://us.123rf.com/450wm/sylverarts/sylverarts1911/sylverarts191100686/134386059-microchip-bord-naadloze-patroon-vector-achtergrond-printplaat-technologie-elektronica-behang-herhaal.jpg?ver=6');
+}
+p{
+  color: black;
+  background-color: white;
+}
+header {
+  background-color: white;
+  width: 700px;
+  height: 70px;
+  background-repeat: repeat-y;
+}
+
+header h1 {
+  font-size: 300%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: right;
+  text-shadow: 5px 5px 7px #000000;
+}nav{
+  background-color: white;
+}
+footer{
+  background-color: white;
 }
