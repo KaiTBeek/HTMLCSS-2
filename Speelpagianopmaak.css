@@ -1,0 +1,29 @@
+.zwart{
+    z-index: 1;
+    position: absolute;
+    background-color: black;
+    height: 500px;
+    width: 500px;
+}
+.groen{
+    z-index: 5;
+    position: absolute;
+    background-color: green;
+}
+.blauw{
+    z-index: 2;
+    position: absolute;
+    background-color: blue;
+}
+.geel{
+    z-index: 3;
+    position: absolute;
+    background-color: yellow;
+    height: 300px;
+    width: 300px    ;
+}
+.rood{
+    z-index: 4;
+    position: absolute;
+    background-color: red;
+}
