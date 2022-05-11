@@ -5,9 +5,11 @@
 }
 .drie{
     position: absolute;
-    top: 100px;
+    top: 3000px;
     left: 200px;
 }
 .vier{
-
+    position: fixed;
+    top: 200px;
+    left: 500px;
 }
