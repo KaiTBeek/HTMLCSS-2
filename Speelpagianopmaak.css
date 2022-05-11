@@ -9,21 +9,32 @@
     z-index: 5;
     position: absolute;
     background-color: green;
+    top: 150px;
+    left: 150px;
+    height: 250px;
+    width: 250px;
 }
 .blauw{
     z-index: 2;
     position: absolute;
     background-color: blue;
+    top: 250px;
+    left: 250px;
+    height: 250px;
+    width: 250px;
 }
 .geel{
     z-index: 3;
     position: absolute;
     background-color: yellow;
     height: 300px;
-    width: 300px    ;
+    width: 300px;
 }
 .rood{
     z-index: 4;
     position: absolute;
     background-color: red;
+    height: 250px;
+    width: 250px;
+
 }
